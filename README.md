@@ -30,11 +30,25 @@ We can now examine the **different colours** of Open Access journals published. 
 
 ![Colors of Open Access](Colours_of_Open_Access.png)
 
-<!-- #### Green Open Access
+ #### Green Open Access
 
 When publishing in a closed journal there is often something called a _green pathway_ that will allow the author to either buy out Open Access rights to the article or to allow them to deposit a certain version of their article to the Brock University Digital Repository. The breakdown of what Green pathways exist for Brock author is shown in the following pie graphs.
 
 ![One Free Pathway](One_Free_Pathway.png)
+
+In contrast, the following graph shows how many Closed papers have at least one _free pathway_ to achieve some version of Open Access. This is great news, by doing a bit of work we can make a bunch of research available Open Access without paying any money.
+
+This means that there is a **free** way to make **85** closed articles Open Access!
+
+#### Outreach for Open Access!
+
+The library is developing a program to contact Brock affliated authors of these **188** articles to encourage them to submit an eligible version into the Brock Digital Repository to achieve Open Access. All researchers will need to is copy and paste the DOI of their paper and upload a PDF copy to a [form](https://researchguides.library.brocku.ca/getting-your-research-out/depositing-open-access).
+
+![Share Your Papers](syp_form.png)
+
+If you published recently and fall in this category of **Closed**, expect an email soon with more details about this project.
+
+<!--
 
 #### paid-for Pathways for Closed Articles
 
@@ -50,13 +64,7 @@ This means that there is a **free** way to make **188** closed articles Open Acc
 
 ![One paid-for Pathway](Free_Option_Closed_Articles.png)
 
-#### Outreach for Open Access!
 
-The library is developing a program to contact Brock affliated authors of these **188** articles to encourage them to submit an eligible version into the Brock Digital Repository to achieve Open Access. All researchers will need to is copy and paste the DOI of their paper and upload a PDF copy to a [form](https://researchguides.library.brocku.ca/getting-your-research-out/depositing-open-access).
-
-![Share Your Papers](syp_form.png)
-
-If you published recently and fall in this category of **Closed**, expect an email soon with more details about this project.
 
 -->
 
