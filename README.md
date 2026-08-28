@@ -30,6 +30,8 @@ We can now examine the **different colours** of Open Access journals published. 
 
 ![Colors of Open Access](Colours_of_Open_Access.png)
 
+
+
  #### Green Open Access
 
 When publishing in a closed journal there is often something called a _green pathway_ that will allow the author to either buy out Open Access rights to the article or to allow them to deposit a certain version of their article to the Brock University Digital Repository. The breakdown of what Green pathways exist for Brock author is shown in the following pie graphs.
