@@ -81,9 +81,11 @@ As described some publishers enable Open Access through the payment of an additi
 
 ### Support for APCs
 
-It is difficult to navigate through all of the components involved with APCs. For example, Brock has some 
+It is difficult to navigate through all of the components involved with APCs. Brock now has an [APC Waiver & Discount Viewer](https://brock-apc-info.streamlit.app/) that will help explain what titles you can receive relief on. Sometimes there is a full discount!
 
-[APC Waiver/Discount Viewer](https://brock-apc-info.streamlit.app/)
+![Example of APC viewer](apc_form.png)
+
+
 
 ## Some interesting trends 
 
