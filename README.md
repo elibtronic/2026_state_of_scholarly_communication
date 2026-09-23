@@ -86,11 +86,19 @@ It is difficult to navigate through all of the components involved with APCs. Br
 
 Let’s take a closer look at our **921** articles to see if we can find any interesting nuggets.
 
-## Popular titles and publishers
+## Popular Titles and Popular Publishers
 
-- Top 10 Sources
-- Top 10 Publishers
-- Open Versus Closed for top 10
+Some journal titles are popular with Brock Authors.
+
+![Top 10 Sources](Top_10_Sources.png)
+
+Some publishers also rank high in popularity.
+
+![Top 10 Sources](Top_10_Publishers.png)
+
+Are these popular publishers producing open access content? We can combine a few things now to see just how open our top publishers are.
+
+![Proportion of Open Access](Proportion_of_Open_Access.png)
 
 ## International Collaborations
 
@@ -98,8 +106,16 @@ We can also discover some interesting details by examining some other characteri
 
 ## This Year Versus Last
 
-Since this report is the second of it's kind we can track the difference from last year to this year. Here's some interesting pieces of comparison.
+Since this report is the second of its kind we can track the difference from last year to this year. Looking at number of publications, dollars spent on APCs, and availability of free green pathways we can see the start of some trends.
 
+### Total Publications
+![Total publications by year](Total_Pubs_By_Year.png)
+
+### Total APC Spend in Millions
+![Total APC spend by year](Total_APC_By_Year.png)
+
+### Proportion of Free Green Pathways Available
+![Proportion of free pathways available](Proportion_Green_By_Year.png)
 
 The library has created a [Research Insights Dashboard](https://brock-research-insights.streamlit.app/) that keeps track of even more statistics on Brock publishing. Please check it out.
 
