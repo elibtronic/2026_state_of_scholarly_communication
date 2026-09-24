@@ -102,7 +102,9 @@ Are these popular publishers producing open access content? We can combine a few
 
 ## International Collaborations
 
-We can also discover some interesting details by examining some other characteristics about journal publication metadata. For example, we can see if Brock researchers are collaborating with international partners.
+We can also discover some interesting details by examining some other characteristics about journal publication metadata. For example, we can see if Brock researchers are collaborating with international partners. Below is graph that shows how many international collaborations there were in the **921** articles.
+
+![International Collaborations](Top_10_Int_Collabs.png)
 
 ## This Year Versus Last
 
